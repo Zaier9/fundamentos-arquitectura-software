@@ -1,0 +1,10 @@
+En el estilo de arquitectura centrados en datos se puede observar es que la aplicación tiene múltiples componentes, pero alguno de ellos se va a concentrar en almacenar los datos, ponerlos disponibles y que hacer para que los datos sean correctos.
+
+    • Pizarrón: Son diferentes componentes que interactúan con un componente central y cada componente tiene la responsabilidad de procesar, calcular o recibir un dato y escribirlo al componente central. Cuando el componente central ya sabe que tiene todos los datos necesarios puede tener una salida.
+
+    • Centrado en datos: Consiste en compartir información de una base datos y que varios componentes puedan acceder a la misma, es decir, distintos componentes comparten una misma base de datos.
+
+    • Experto o Basado en reglas: En este caso el sistema que centraliza los datos, tiene la capacidad de entender los datos y consultas que realiza el cliente, generando salidas inteligentes. (inteligencia artificial).
+
+Nota: En los estilos de arquitecturas basados en datos siempre vamos a tener esta concentración de cómo hacer para consultar o guardar algo, en cada uno de los estilos vistos se puede ver como el dato tiene diferentes formas o diferentes importancias, 
+en algunos casos se centraliza la información, en otros se tienen procesos claros donde se sabe cuántos datos faltan y cuantos datos se necesitan mientras que en otros casos también los datos puede que no sean conocidos.
