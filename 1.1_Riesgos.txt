@@ -1,0 +1,17 @@
+Los Riesgos:
+
+    Es necesario identificar los riesgos para poder priorizarlos y atacarlos en orden y asegurar que las soluciones arquitectónicas que propongamos resuelvan los problemas más importantes.
+
+Identificación de los riesgos:
+
+    • Toma de Requerimientos (Requerimientos funcionales):
+    Se calificará su riesgo de acuerdo a su dificultad o complejidad.
+    • Atributos de calidad (Requerimientos NO funcionales):
+    Se calificará su riesgo de acuerdo a la incertidumbre que genere, cuanto mas incertidumbre hay, mas alto es el riesgo.
+    • Conocimiento del dominio:
+    Riesgo prototípico, son aquellos que podemos atacar de forma estándar.
+
+
+Pregunta de examen:
+Los riesgos hay que identificados para poder priorizarlos, recuerda que no es necesario mitigarlos todos, 
+debemos siempre tener en cuenta y dar prioridad a aquellos riesgos que ponen en peligro la solución que se está construyendo.
