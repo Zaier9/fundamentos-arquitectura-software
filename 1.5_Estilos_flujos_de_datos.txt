@@ -1,0 +1,16 @@
+"En este caso no estamos tan preocupados por cual es la secuencia de ejecución sino como los datos fluyen de un punto a otro."
+
+Flujo de datos:
+
+    • Lote secuencial: Lo importante es ejecutar una pieza de código y que el final de esa pieza ya procesada pase a una siguiente etapa.
+
+    • Tubos y filtros: Se tiene un string o un flujo de datos continuo en donde cada aplicación recibe continuamente esos datos los procesa y los hace como salida a otra aplicación o al final de la ejecución.
+
+Nota:
+
+    En el estilo de flujo de datos lo que se tiene son diferentes aplicaciones que van a estar conectadas en general en tiempo real por lo tanto ya no se necesita interacción con el usuario para decidir cuándo empieza un proceso o cuando termina otro.
+
+Cuando usamos el estilo de arquitectura de flujo de datos:
+
+    • Cuando tenemos un proceso que tiene que tener una salida clara pero que puede ser separado en partes en donde tenemos parte a parte lo que necesitamos hacer.
+    • Cuando necesitamos un string de entrada parte a parte ir procesándolo y tener una salida al final del túnel.
