@@ -1,0 +1,10 @@
+Ley de Conway
+
+“Cualquier pieza de software refleja la estructura organizacional que la produjo.”
+
+
+Relacionar la estructura de un equipo con las estructuras de comunicación resultantes del software.
+    Monolítico:
+        * Un solo equipo, se comunica informalmente sin restricciones.
+    Distribuido:
+        * Múltiples equipos. Vías definidas de comunicación, dependencias más evidentes (idealmente, evitadas).
