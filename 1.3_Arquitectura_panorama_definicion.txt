@@ -1,3 +1,8 @@
+Un estilo de Arquitectura:
+    * Es una colección de dicisionesde diseño, aplicables en un contexto determinado, que restringen
+    las decisiones arquitectónicas específicas en ese contexto y obtienen beneficios en cada sistema resultante.
+    
+
 Estilos Monolíticos:
 
     * Es más fácil darle prioridad a la eficiencia de las comunicaciones.
