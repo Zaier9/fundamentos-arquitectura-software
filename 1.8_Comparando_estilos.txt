@@ -16,5 +16,5 @@ Estilos Distribuidos:
     * La curva de aprendizaje es más difícil, porque habría que entender todas las piezas de los componentes.
     * Al ser desplegadas independientemente, son versionadas independientemente, y esta variación de serviones hace mas complejo su modificación.
     * La modularidad, es más fácil porque los componentes que son desplegados independiente.
-    * La disponibilidad se pueden tener multiples copias del sistema. por lo que este disponible es mas barato.
+    * La disponibilidad se pueden tener multiples copias del sistema, por lo que este disponible es mas barato.
     * La adaptabilidad es más fácil en el despliegue porque los componente se despliegan independientemente en múltiples contextos.
