@@ -3,7 +3,8 @@ Estilos:
 Componentes independientes: Este tipo de estilo de arquitectura es para desarrollar aplicaciones independientemente y no tener acoplamiento fuerte entre cada uno de nuestros componentes.
 
     Invocación implicita: 
-        Suele ser basada en eventos, habla de como hacerle para que nuestras aplicaciones se manden mensajes entre si. Cuando se tiene eventos, naturalmente se tienen componentes y un bus de eventos donde los componentes van a publicar eventos y luego el bus de eventos los va a notificar. Aquí se encuentra Publicar y Suscribir que trata de un componente que publica y otro componente que suscribe, todo a través del bus de eventos. También existe el Enterprise Service Bus el cual tiene componentes registrados los cuales se pueden comunicar con el bus, los componentes no se conocen entre si, pero están programados para cumplir con su objetivo.
+        Suele ser basada en eventos, habla de como hacerle para que nuestras aplicaciones se manden mensajes entre si. Cuando se tiene eventos, naturalmente se tienen componentes y un bus de eventos donde los componentes van a publicar eventos y luego el bus de eventos los va a notificar. Aquí se encuentra Publicar y Suscribir que trata de un componente que publica y otro componente que suscribe, todo a través del bus de eventos. 
+        También existe el Enterprise Service Bus el cual tiene componentes registrados los cuales se pueden comunicar con el bus, los componentes no se conocen entre si, pero están programados para cumplir con su objetivo.
 
     Invocación explicita: 
-        Citando a un compañero de este curso: “Tiene que ver con el desarrollo de componentes que sí se conocen entre si, pero se han desarrollado independientemente”. Aquí se encuentra Orientado al Servicio en donde todos los componentes se registran al “Registro central” y después indican donde comunicarse.
+        Tiene que ver con el desarrollo de componentes que sí se conocen entre si, pero se han desarrollado independientemente. Aquí se encuentra Orientado al Servicio en donde todos los componentes se registran al “Registro central” y después indican donde comunicarse.
