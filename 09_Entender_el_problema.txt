@@ -1,0 +1,30 @@
+Entender el problema:
+    La parte más importante de entender el problema es: separar la comprensión del problema de la propuesta de solución, 
+    si no se entiende la diferencia entre estos dos puntos se tiende a solucionar problemas inexistentes y a hacer sobreingeniería.
+
+
+Problema:
+
+    Detalla ¿que es lo que se va a resolver? (y qué no se va a resolver) sin entrar en detalles del “cómo”. -> (analisis del problema)
+
+    El espacio del problema nos ayuda a entender que es lo que vamos a resolver y exactamente como imaginamos como esto va agregar 
+    un valor a nuestros usuarios sin entrar en detalle de cómo lo va a resolver el sistema.
+
+
+Idea: ¿Qué queremos resolver?
+    Criterios de éxito: ¿Cómo identificamos si estamos resolviendo el problema?
+    Historias de usuario: Supuestos de historias de lo que va a ganar el usuario al utilizar la solución usando las características del problema a resolver.
+
+Solución:
+
+    Brinda el detalle del ¿“cómo” se va a resolver?, reflejando los detalles del problema detectado y evitando resolver problemas que no se quiere o necesita resolver. --> (detalles técnicos)
+
+    Se refleja en el espacio del problema y trata de resolverlo teniendo en cuenta todos los detalles técnicos necesarios.
+
+        Consta de:
+
+            * Diseño: todo lo referente a la planificacion del software, desde diseño UI, UX hasta diseño de sistemas
+            * Desarrollo: escribir el codigo, configuraciones y contrataciones de servicios
+            * Evaluación: medir la eficiencia y eficacia del software frente al problema
+            * Criterios de aceptación: medir el impacto del software, no importa lo bueno que sea el problema si los usuarios no lo usan o no le ven uso
+            * Despliegue (deploy): lanzar el software en ambientes productivos (mercado) y empezar a mejorar las caracteristicas con un feedback loop (crear, medir, aprender)
