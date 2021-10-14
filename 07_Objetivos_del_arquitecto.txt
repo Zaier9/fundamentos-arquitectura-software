@@ -1,0 +1,21 @@
+El Arquitecto va a **conectar a las partes interesadas y los requerimientos de los mismos con la implementación del sistema**.
+Es decir tiene una visión global del proyecto en general y debe diseñar el software de tal manera que cumpla con los requerimientos de todas las partes interesadas.
+
+Partes interesadas o Stakeholders
+
+Cliente:
+    * Quiere tener su sistema respetando el presupuesto establecido y entregado a tiempo. Debará preocuparse por encontrar cuáles son los mayores riesgos y evitarlos.
+
+Manager: 
+    * Querrá cumplir con los requerimientos del cliente y además tener la posibilidad de crear equipos que puedan autogestionarse y atacar diferentes partes del sistema de forma simultanea.
+
+Dev:
+    * Que sea fácil de implementar y mantener.
+
+Usuario:
+    * Que funcione, que haga lo que tiene que hacer cuando lo tenga que hacer.
+
+Tester QA:
+    * Que sea fácil de probar
+
+Con todo esto en mente el Arquitecto deberá tomar las mejores desiciones para que el impacto del diseño sea agradable para todas estas partes.
