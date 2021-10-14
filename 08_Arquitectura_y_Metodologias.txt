@@ -17,3 +17,7 @@ Diferencias:
         * En la metodología ágil todo se trata de momentos en donde podemos evaluar o reevaluar nuestras decisiones, esto se realiza en el planeamiento del spring que es donde planeamos los momentos arquitectónicos importantes. 
         Una vez planeado el spring y se define lo que se tiene que definir arquitectónicamente se ejecuta en base a las prioridades que se tienen y luego se le lleva al usuario haciendo el despliegue y gracias a eso se obtiene feedback, 
         cabe destacar que una vez que se obtiene feedback se pueden reevaluar las decisiones de la arquitectura.
+
+En el contexto de método tradicional … Las decisiones de arquitectura es en la ETAPA DEL DISEÑO
+
+En el contexto de Método ágil … Las decisiones de arquitectura es EN CADA ITERACIÓN
