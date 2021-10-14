@@ -5,11 +5,11 @@ Los Riesgos:
 Identificación de los riesgos:
 
     • Toma de Requerimientos (Requerimientos funcionales):
-    Se calificará su riesgo de acuerdo a su dificultad o complejidad.
+        Se calificará su riesgo de acuerdo a su dificultad o complejidad.
     • Atributos de calidad (Requerimientos NO funcionales):
-    Se calificará su riesgo de acuerdo a la incertidumbre que genere, cuanto mas incertidumbre hay, mas alto es el riesgo.
+        Se calificará su riesgo de acuerdo a la incertidumbre que genere, cuanto mas incertidumbre hay, mas alto es el riesgo.
     • Conocimiento del dominio:
-    Riesgo prototípico, son aquellos que podemos atacar de forma estándar.
+        Riesgo prototípico, son aquellos que podemos atacar de forma estándar.
 
 
 Pregunta de examen:
